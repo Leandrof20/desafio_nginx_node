@@ -1,0 +1,24 @@
+{
+  "name": "desafio_nginx_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leandrof20/desafio_nginx_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leandrof20/desafio_nginx_node/issues"
+  },
+  "homepage": "https://github.com/Leandrof20/desafio_nginx_node#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
